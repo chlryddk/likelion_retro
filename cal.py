@@ -5,3 +5,5 @@ def minus(a,b):
 # add
 def cal_plus(a,b):
     return a+b
+def test():
+    pass
